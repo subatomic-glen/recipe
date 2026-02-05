@@ -5,4 +5,4 @@ This is a traditional recipe for Scottish shortbread handed down from my great-g
 
 Denise Schuk
 Last line changed locally.
-### This is a LOCAL change :)
+###This is a REMOTE change :O
